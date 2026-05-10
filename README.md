@@ -321,7 +321,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋 Author
 
 **Alilo Alaedine**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@BoutefahaAlaeddine](https://github.comBoutefahaAlaeddine)
 
 ---
 
