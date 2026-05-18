@@ -1,6 +1,6 @@
 # Alilo Coding — Pure HTML & CSS Single-Page Template
 
-> A feature-rich, single-page website template built with **nothing but HTML5 and CSS3** — no JavaScript, no frameworks, no preprocessors. Every animation, every transition, every interactive effect is achieved using **pure CSS techniques** only.
+🌐 Websites. A feature-rich, single-page website template built with **nothing but HTML5 and CSS3** — no JavaScript, no frameworks, no preprocessors. Every animation, every transition, every interactive effect is achieved using **pure CSS techniques** only.
 
 ---
 
